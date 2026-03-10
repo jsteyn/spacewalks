@@ -50,7 +50,9 @@ python3 -m pytest
 To run an analysis using the eva_data_analysis.py script from the command line terminal,
 launch the script using Python as follows:
 
+```
 python3 eva_data_analysis.py eva-data.json eva-data.csv
+```
 
 The first argument is path to the JSON data file.
 The second argument is the path the CSV output file.`
