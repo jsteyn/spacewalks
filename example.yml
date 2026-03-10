@@ -1,0 +1,7 @@
+example.yml
+  name: Kilimanjaro
+  height_meters: 5892
+  first_scaled_by:
+    - Hans Meyer
+    - Ludwig Purtscheller
+  another_thing: [1, 2, 3]
