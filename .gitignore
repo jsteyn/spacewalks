@@ -1,2 +1,8 @@
 v_spacewalks/
 .DS_Store
+# Created by coverage.py
+**results/
+.coverage
+**__pycache__/
+**.vscode/
+**htmlcov/
